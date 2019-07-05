@@ -1,0 +1,8 @@
+/* container */
+
+.centre-block{
+	display: block;
+  margin-right: auto !important;
+  margin-left: auto !important;
+  text-align: center;
+}
